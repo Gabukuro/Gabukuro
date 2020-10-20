@@ -8,8 +8,7 @@
 - 🎓 &nbsp; Studying Software Engineering.
 - 💼 &nbsp; Working as a Full Stack Developer at Multi Pedidos.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
+</br>
 
 <a href="https://github.com/Gabukuro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabukuro&theme=buefy&show_icons=true" />
