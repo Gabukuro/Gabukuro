@@ -1,8 +1,7 @@
 
-<h2> Hey there! I'm Gabriel.</h2>
+<h2> Hi :wave: I'm Gabriel.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+<h3> <img src="./assets/coding.gif" width="35"/>  About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering.
