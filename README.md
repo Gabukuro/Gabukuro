@@ -1,11 +1,11 @@
 
-<h2> Hi :wave: I'm Gabriel.</h2>
+<h2> Hey there <img src="./assets/ashzin.gif" width="65"/></h2>
 
-<h3> <img src="./assets/coding.gif" width="35"/>  About Me </h3>
+<h3> Just a little things about me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Software Engineering.
-- 💼 &nbsp; Working as a Full Stack Developer at Multi Pedidos.
+- <img src="./assets/coding.gif" width="60"/> &nbsp; Exploring new technologies and developing software solutions.
+- <img src="./assets/brent-rambo.gif" width="60"/> &nbsp; Studying Software Engineering.
+- <img src="./assets/dev.gif" width="70"/>  &nbsp; Working as a Full Stack Developer at Multi Pedidos.
 
 </br>
 
