@@ -5,7 +5,7 @@
 
 - <img src="./assets/coding.gif" width="60"/> &nbsp; Exploring new technologies and developing software solutions.
 - <img src="./assets/brent-rambo.gif" width="60"/> &nbsp; Studying Software Engineering.
-- <img src="./assets/dev.gif" width="70"/>  &nbsp; Working as a Full Stack Developer at Multi Pedidos.
+- <img src="./assets/dev.gif" width="70"/>  &nbsp; Working as a Full Stack Developer @ TOTVS.
 
 </br>
 
