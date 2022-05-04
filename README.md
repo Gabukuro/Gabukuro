@@ -11,5 +11,5 @@
 
 <a href="https://github.com/Gabukuro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabukuro&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabukuro&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabukuro&theme=buefy" />
 </a>
