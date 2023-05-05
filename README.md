@@ -8,8 +8,3 @@
 - <img src="./assets/dev.gif" width="70"/>  &nbsp; Working as a Software Engineer @ Transfeera.
 
 </br>
-
-<a href="https://github.com/Gabukuro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabukuro&theme=default&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabukuro&theme=default&layout=compact" />
-</a>
