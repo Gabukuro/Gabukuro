@@ -1,10 +1,8 @@
+# Hey there! <img src="./assets/ashzin.gif" width="65"/>
 
-<h2> Hey there <img src="./assets/ashzin.gif" width="65"/></h2>
+## Just a Little Bit About Me
 
-<h3> Just a little things about me </h3>
+- <img src="./assets/coding.gif" width="60"/> &nbsp; Exploring new technologies and crafting innovative software solutions.
+- <img src="./assets/brent-rambo.gif" width="60"/> &nbsp; Pursuing a degree in Software Engineering.
+- <img src="./assets/dev.gif" width="70"/>  &nbsp;  Currently working as a Software Engineer at Transfeera.
 
-- <img src="./assets/coding.gif" width="60"/> &nbsp; Exploring new technologies and developing software solutions.
-- <img src="./assets/brent-rambo.gif" width="60"/> &nbsp; Software Engineering student.
-- <img src="./assets/dev.gif" width="70"/>  &nbsp; Working as a Software Engineer @ Transfeera.
-
-</br>
