@@ -4,5 +4,5 @@
 
 - <img src="./assets/coding.gif" width="60"/> &nbsp; Exploring new technologies and crafting innovative software solutions.
 - <img src="./assets/brent-rambo.gif" width="60"/> &nbsp; Graduated with a degree in Software Engineering.
-- <img src="./assets/dev.gif" width="70"/>  &nbsp;  Currently working as a Software Engineer at Transfeera, where I focus on impactful and scalable projects.
+- <img src="./assets/dev.gif" width="60"/>  &nbsp;  Currently working as a Software Engineer at Transfeera, where I focus on impactful and scalable projects.
 
